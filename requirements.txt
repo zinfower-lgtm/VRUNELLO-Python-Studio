@@ -3,3 +3,9 @@ Pillow>=11.0
 pandas>=2.2
 requests>=2.32
 python-dotenv>=1.0
+
+PySide6
+Pillow
+pandas
+requests
+python-dotenv
